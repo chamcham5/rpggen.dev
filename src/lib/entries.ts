@@ -934,6 +934,16 @@ export function all(): Entry[] {
 			topics: ["Star Wars"],
 		},
 		{
+			name: "The Referee's Data Kit: Free Sampler Workbench (AI-assisted)",
+			website: {
+				name: "Website",
+				url: "https://nobitokisu.itch.io/rdk-sampler-workbench",
+			},
+			interview: null,
+			examples: [],
+			topics: ["fantasy"],
+		},
+		{
 			name: "Total Party Kill 5e NPC Generator",
 			website: {
 				name: "Website",
