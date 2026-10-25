@@ -937,7 +937,7 @@ export function all(): Entry[] {
 			name: "The Referee's Data Kit: Free Sampler Workbench (AI-assisted)",
 			website: {
 				name: "Website",
-				url: "https://nobitokisu.itch.io/rdk-sampler-workbench",
+				url: "https://hitocase.itch.io/rdk-sampler-workbench",
 			},
 			interview: null,
 			examples: [],
